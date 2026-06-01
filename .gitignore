@@ -1,0 +1,11 @@
+# IDE
+.idea/
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Runtime artifacts
+run_log.txt
+output.txt
